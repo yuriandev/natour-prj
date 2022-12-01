@@ -1,0 +1,22 @@
+{
+  "name": "natour",
+  "version": "1.0.0",
+  "description": "Landing page for natour",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass sass/main.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuriandev/natour-prj.git"
+  },
+  "author": "Iurii An",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuriandev/natour-prj/issues"
+  },
+  "homepage": "https://github.com/yuriandev/natour-prj#readme",
+  "devDependencies": {
+    "sass": "^1.56.1"
+  }
+}
