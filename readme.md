@@ -1,6 +1,6 @@
 # Natour - touristic web site
 
-### Study project
+### GitHub page link of this [project](https://yuriandev.github.io/natour-prj)
 
 This project uses the float layout system, it's outdated, but a frontend developer should know it for work with legacy web sites.
 
