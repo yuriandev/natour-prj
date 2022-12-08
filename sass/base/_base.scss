@@ -7,8 +7,18 @@
 }
 
 html {
-  // this define what 1rem is
+  // this define what 1rem is. 1rem=10px
   font-size: 62.5%;
+
+  @include respond(tab-land) {
+    font-size: 56.25%; //1rem=8, 9/16=56.25%
+  }
+  @include respond(tab-port) {
+    font-size: 50%; //1rem=8, 8/16=50%
+  }
+  @include respond(big-desktop) {
+    font-size: 75%; //1rem=12, 12/16=75%
+  }
 }
 
 body {
