@@ -905,6 +905,7 @@ body {
   .footer__navigation {
     width: 100%;
     text-align: center;
+    font-size: 1.3rem;
   }
 }
 .footer__list {
